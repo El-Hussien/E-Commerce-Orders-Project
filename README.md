@@ -1,5 +1,3 @@
-E-Commerce Orders Analysis Project
-
 📌 Project Overview
 In this project, I performed comprehensive data analysis on an e-commerce orders dataset, covering data cleaning, transformation, and visualization to extract valuable insights.
 
