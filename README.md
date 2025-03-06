@@ -4,6 +4,7 @@ E-Commerce Orders Analysis Project
 In this project, I performed comprehensive data analysis on an e-commerce orders dataset, covering data cleaning, transformation, and visualization to extract valuable insights.
 
 Key Steps & Contributions
+
 ✔ Data Cleaning with Python 🐍
 
 Processed raw CSV data to handle missing values, duplicates, and inconsistencies.
